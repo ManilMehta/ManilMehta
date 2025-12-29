@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi! I'm Manil
 
 <!--
 **ManilMehta/ManilMehta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+I’m a Data Science student who likes building systems across AI and backend engineering. I love starting from scratch, building across the stack, and learning as I go.
